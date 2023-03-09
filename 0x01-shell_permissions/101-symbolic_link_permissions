@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincnet:staff -hello
+chown -h vincnet:staff _hello
